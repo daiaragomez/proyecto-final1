@@ -1,0 +1,65 @@
+body{
+  font-size: 20px;
+  font-family: 'Otomanopee One', sans-serif;
+}
+
+.body{
+  padding: 60px 15px;
+}
+
+.pacifico{
+  font-family: 'Pacifico', cursive;
+}
+
+.titulo{
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+
+.main-header{
+  background-color:#34495E;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 4px;
+}
+  .nav-link{
+   color:white;
+  margin-right: -4px;
+  text-decoration: none;
+  transition: all 1s;
+  width: 33%;
+  display:inline-block;
+}
+.text-center {
+text-align:center;
+}
+.text{
+color:hsl(80, 20%,30%)
+}
+
+.main-container {
+  min-height: 100vh;
+}
+
+.produc img {
+  width: 150px;
+}
+
+.produc h3{
+  font-size: 1.5em;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.card{
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),  0 1px 2px rgba(0, 0, 0, 0.24);
+  }
+
+.threeD{
+  text-shadow: 1px 3px 0px #6b251d, 1px 13px 5px rgb(171, 168, 168)
+}
